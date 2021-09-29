@@ -147,6 +147,10 @@ h1 {
     padding-bottom: 2%;
 }
 
+.bold {
+    font-weight: bold;
+}
+
 /* Bottom Section */
 .bottom {
     text-align: center;
